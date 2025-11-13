@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+data/
+faiss_index.bin
+faiss_docs.pkl
+.DS_Store
