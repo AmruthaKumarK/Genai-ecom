@@ -11,7 +11,7 @@ This project implements:
 
 ## Steps to Run
 
-1. Unzip and `cd genai-ecommerce-insights`
+1. Unzip and `cd Genai-ecom`
 
 2. Create virtualenv and install:
    ```
